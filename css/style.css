@@ -56,6 +56,7 @@ body {
 }
 
 .card-body h1 {
+  font-size: 1.8rem;
   font-weight: 900;
 }
 
@@ -93,6 +94,10 @@ body {
   .card-option img {
     margin-right: 10px;
   }
+}
+
+.card-option h2 {
+  font-size: 1.2rem;
 }
 
 .card-option span {
