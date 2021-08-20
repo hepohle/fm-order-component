@@ -35,6 +35,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   height: 100vh;
 }
 
@@ -159,5 +160,15 @@ body {
 
 .card-footer a:hover {
   color: var(--dark_blue);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.attribution a {
+  color: #3e52a3;
 }
 /*# sourceMappingURL=style.css.map */
